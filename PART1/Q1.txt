@@ -1,0 +1,7 @@
+The number of sentences in the dataset is 5336
+The number of verbs in the dataset is 22421
+The average number of verbs per sentence in the dataset is 4.201836581709146
+The average number of prepositions in the dataset is 15287
+The three most common prepositions: of, in, to
+Number of entities: 7205
+Unique entities: ['DATE', 'ORG', 'PERCENT', 'GPE', 'ORDINAL', 'CARDINAL', 'NORP', 'LOC', 'PERSON', 'TIME', 'LAW', 'PRODUCT', 'FAC', 'MONEY', 'EVENT', 'WORK_OF_ART', 'QUANTITY', 'LANGUAGE']
